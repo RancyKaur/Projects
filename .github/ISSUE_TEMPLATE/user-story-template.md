@@ -1,7 +1,7 @@
 ---
 name: User Story Template
 about: Document a user story to implement
-title: ''
+title: "[User Story]"
 labels: ''
 assignees: ''
 
